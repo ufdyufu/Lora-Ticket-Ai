@@ -1,0 +1,31 @@
+{
+  "name": "lora-ticket-ai",
+  "version": "1.0.0",
+  "description": "Lora Ticket AI - Advanced AI-Powered Discord Ticket Bot by Lora Technologies",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [
+    "discord",
+    "ticket",
+    "bot",
+    "ai",
+    "lora",
+    "support"
+  ],
+  "author": "LORA Tech",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "mongoose": "^8.0.3",
+    "openai": "^4.24.1",
+    "winston": "^3.11.0",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
