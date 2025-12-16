@@ -63,8 +63,8 @@
 
 1. Repoyu klonlayın
 ```bash
-git clone https://github.com/Lora-Technologies/lora-ticket-bot.git
-cd lora-ticket-bot
+git clone https://github.com/Lora-Technologies/lora-ticket-ai.git
+cd lora-ticket-ai
 ```
 
 2. Bağımlılıkları yükleyin
@@ -208,8 +208,8 @@ Advanced AI-Powered Discord Ticket Bot powered by **LORA API**
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Lora-Technologies/lora-ticket-bot.git
-cd lora-ticket-bot
+git clone https://github.com/Lora-Technologies/lora-ticket-ai.git
+cd lora-ticket-ai
 ```
 
 2. Install dependencies
